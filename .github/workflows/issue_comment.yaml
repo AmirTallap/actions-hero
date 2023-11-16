@@ -42,7 +42,7 @@ jobs:
             # Header
             ## Smaller
             ### More smaller!
-            ' 
+            '
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORGANIZATION: ${{ github.repository_owner }}
